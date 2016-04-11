@@ -10,6 +10,9 @@ namespace UsefulExamples
     {
         static void Main(string[] args)
         {
+            //SortingUsingComparisonC3.MainMethod();
+            //XDocument_Linq.MainMethod();
+            //DelegatesdListOperation.MainMethod();
         }
     }
 }
