@@ -13,6 +13,11 @@ namespace UsefulExamples
             //SortingUsingComparisonC3.MainMethod();
             //XDocument_Linq.MainMethod();
             //DelegatesdListOperation.MainMethod();
+            //FindIDisposable.Method1();
+            //PartialComparer.Method();
+            //capturedDelegate.Method();
+            LazyFilter.Method();
+            /*ExpressionTrees.Method(); ExpressionTrees.Method2();*/
         }
     }
 }
